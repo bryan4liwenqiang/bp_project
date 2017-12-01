@@ -1,2 +1,2 @@
 # bp_project
-The final excercise for cognitive writing
+The final exercise for cognitive writing
